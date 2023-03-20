@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently in 2nd year || CSE
-kuukb
+currently in 2nd year || <b> CSE </b> 
+
